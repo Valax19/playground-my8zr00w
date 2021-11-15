@@ -5,9 +5,9 @@
 -[x] 1994.
 
 ?[De quel type est le design pattern Builder ?]
--[ ] Création.
+-[x] Création.
 -[ ] Structurel.
--[x] Comportementaux.
+-[ ] Comportementaux.
 -[ ] Pousse à la salle.
 
 ?[Lors de notre premier exemple de l'utilisation du Builder, quel(s) classe(s) n'avons pas utiliser ? ]
