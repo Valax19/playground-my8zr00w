@@ -1,24 +1,37 @@
-# Welcome!
+?[En quelle année le GoF reprends le concept émis plus tôt ?]
+-[ ] 1992
+-[ ] 1998
+-[ ] 1990
+-[x] 1994
 
-This Java template lets you get started quickly with a simple one-page playground.
+?[De quel type est le design pattern Builder ?]
+-[ ] Création.
+-[ ] Structurel.
+-[x] Comportementaux.
+-[ ] Pousse à la salle.
 
-```java runnable
-// { autofold
-public class Main {
+?[Lors de notre premier exemple de l'utilisation du Builder, quel(s) classe(s) n'avons pas utiliser ? ]
+-[ ] Monteur
+-[ ] MonteurConcret
+-[ ] Produit
+-[x] Directeur
 
-public static void main(String[] args) {
-// }
+?[Dans notre deuxième exemple, quelle principe SOLID n'a pas eu besoin d'être vérifié ?]
+-[x] ISP
+-[ ] DIP
+-[ ] PSG
+-[ ] LSP
 
-String message = "Hello World!";
-System.out.println(message);
+?[Le directeur permet de : ]
+-[ ] Gérer ses clients
+-[ ] Montrer aux clients des choses
+-[ ] Récupérer l'argent des clients
+-[x] Cacher des choses aux clients
 
-//{ autofold
-}
+#### Bonus : 
 
-}
-//}
-```
-
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), use the [Advanced Java template](https://tech.io/select-repo/385)
+?[Quel est le Prénom du premier user créer ?]
+-[x] Stéphane
+-[ ] Phillipe
+-[x] 42
+-[ ] Claude
